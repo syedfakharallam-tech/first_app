@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AI Video Studio MVP",
+  "description": "A high-end AI video generation dashboard that provides a web-based studio for creating AI videos with Gemini Veo and also provides the source code for a local Python-based video generator MVP.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
